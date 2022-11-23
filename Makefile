@@ -12,3 +12,6 @@ git push -u origin main
 go get github.com/uber/jaeger-client-go
 go get github.com/opentracing/opentracing-go
 go get github.com/uber/jaeger-client-go/config
+
+zap
+go get gopkg.in/natefinch/lumberjack.v2
